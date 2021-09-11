@@ -2,57 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://historia101.github.io/2021/09/11/MyBatis/MyBatis/</loc>
+    
+    <lastmod>2021-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://historia101.github.io/2021/09/09/java%E5%9F%BA%E7%A1%80/equals%E4%B8%8EhashCode/</loc>
+    
+    <lastmod>2021-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://historia101.github.io/2021/09/11/git/git%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2021-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://historia101.github.io/2021/09/09/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</loc>
+    
+    <lastmod>2021-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://historia101.github.io/tags/index.html</loc>
     
     <lastmod>2021-09-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://historia101.github.io/categories/index.html</loc>
     
     <lastmod>2021-09-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/09/09/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://historia101.github.io/2021/09/09/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</loc>
     
     <lastmod>2021-09-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/09/03/hello-world/</loc>
+    <loc>https://historia101.github.io/2021/09/03/hello-world/</loc>
     
     <lastmod>2021-09-02</lastmod>
     
   </url>
   
-  <url>
-    <loc>http://example.com/2021/09/11/git/git%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
-    
-    <lastmod>1970-01-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2021/09/09/java%E5%9F%BA%E7%A1%80/equals%E4%B8%8EhashCode/</loc>
-    
-    <lastmod>1970-01-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2021/09/09/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</loc>
-    
-    <lastmod>1970-01-01</lastmod>
-    
-  </url>
-  
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://historia101.github.io/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -60,28 +67,35 @@
 
   
   <url>
-    <loc>http://example.com/tags/git/</loc>
+    <loc>https://historia101.github.io/tags/MyBatis/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/java%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://historia101.github.io/tags/git/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>https://historia101.github.io/tags/java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/jQuery/</loc>
+    <loc>https://historia101.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2021-09-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://historia101.github.io/tags/jQuery/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -90,21 +104,28 @@
 
   
   <url>
-    <loc>http://example.com/categories/git/</loc>
+    <loc>https://historia101.github.io/categories/MyBatis/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/java/</loc>
+    <loc>https://historia101.github.io/categories/git/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>https://historia101.github.io/categories/java/</loc>
+    <lastmod>2021-09-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://historia101.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
