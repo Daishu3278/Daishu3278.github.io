@@ -81,13 +81,6 @@
   </url>
   
   <url>
-    <loc>https://historia101.github.io/tags/java%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2021-09-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://historia101.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
@@ -96,6 +89,13 @@
   
   <url>
     <loc>https://historia101.github.io/tags/jQuery/</loc>
+    <lastmod>2021-09-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://historia101.github.io/tags/java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -118,14 +118,14 @@
   </url>
   
   <url>
-    <loc>https://historia101.github.io/categories/java/</loc>
+    <loc>https://historia101.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://historia101.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>https://historia101.github.io/categories/java/</loc>
     <lastmod>2021-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
