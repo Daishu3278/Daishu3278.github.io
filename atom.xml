@@ -3,11 +3,11 @@
   <title>大袋鼠的博客</title>
   
   <subtitle>袋鼠博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/historia101/historia101.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/historia101/historia101.github.io/"/>
   <updated>1970-01-01T00:00:00.001Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/historia101/historia101.github.io/</id>
   
   <author>
     <name>Historia</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>git的简单使用</title>
-    <link href="http://example.com/2021/09/11/git/git%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>http://example.com/2021/09/11/git/git%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <link href="https://github.com/historia101/historia101.github.io/2021/09/11/git/git%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>https://github.com/historia101/historia101.github.io/2021/09/11/git/git%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
     <published>2021-09-11T11:05:00.000Z</published>
     <updated>1970-01-01T00:00:00.001Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="git" scheme="http://example.com/categories/git/"/>
+    <category term="git" scheme="https://github.com/historia101/historia101.github.io/categories/git/"/>
     
     
-    <category term="git" scheme="http://example.com/tags/git/"/>
+    <category term="git" scheme="https://github.com/historia101/historia101.github.io/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>为什么要重写equals()和hashCode()?</title>
-    <link href="http://example.com/2021/09/09/java%E5%9F%BA%E7%A1%80/equals%E4%B8%8EhashCode/"/>
-    <id>http://example.com/2021/09/09/java%E5%9F%BA%E7%A1%80/equals%E4%B8%8EhashCode/</id>
+    <link href="https://github.com/historia101/historia101.github.io/2021/09/09/java%E5%9F%BA%E7%A1%80/equals%E4%B8%8EhashCode/"/>
+    <id>https://github.com/historia101/historia101.github.io/2021/09/09/java%E5%9F%BA%E7%A1%80/equals%E4%B8%8EhashCode/</id>
     <published>2021-09-09T08:35:00.000Z</published>
     <updated>1970-01-01T00:00:00.001Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="java" scheme="http://example.com/categories/java/"/>
+    <category term="java" scheme="https://github.com/historia101/historia101.github.io/categories/java/"/>
     
     
-    <category term="java基础" scheme="http://example.com/tags/java%E5%9F%BA%E7%A1%80/"/>
+    <category term="java基础" scheme="https://github.com/historia101/historia101.github.io/tags/java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>简单工厂模式</title>
-    <link href="http://example.com/2021/09/09/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
-    <id>http://example.com/2021/09/09/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</id>
+    <link href="https://github.com/historia101/historia101.github.io/2021/09/09/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://github.com/historia101/historia101.github.io/2021/09/09/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</id>
     <published>2021-09-09T08:35:00.000Z</published>
     <updated>1970-01-01T00:00:00.001Z</updated>
     
@@ -72,19 +72,19 @@
     
     
     
-    <category term="设计模式" scheme="http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <category term="设计模式" scheme="https://github.com/historia101/historia101.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <category term="设计模式" scheme="https://github.com/historia101/historia101.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
-    <category term="jQuery" scheme="http://example.com/tags/jQuery/"/>
+    <category term="jQuery" scheme="https://github.com/historia101/historia101.github.io/tags/jQuery/"/>
     
   </entry>
   
   <entry>
     <title>代码演示</title>
-    <link href="http://example.com/2021/09/09/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
-    <id>http://example.com/2021/09/09/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</id>
+    <link href="https://github.com/historia101/historia101.github.io/2021/09/09/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
+    <id>https://github.com/historia101/historia101.github.io/2021/09/09/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</id>
     <published>2021-09-09T02:40:00.000Z</published>
     <updated>2021-09-09T08:49:30.669Z</updated>
     
@@ -100,8 +100,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/09/03/hello-world/"/>
-    <id>http://example.com/2021/09/03/hello-world/</id>
+    <link href="https://github.com/historia101/historia101.github.io/2021/09/03/hello-world/"/>
+    <id>https://github.com/historia101/historia101.github.io/2021/09/03/hello-world/</id>
     <published>2021-09-02T17:34:51.591Z</published>
     <updated>2021-09-02T17:34:51.591Z</updated>
     
